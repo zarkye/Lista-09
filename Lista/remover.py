@@ -1,0 +1,13 @@
+alunos = ['Joao', 'Tarmiel', 'Gustavo', 'Lucas']
+# print(alunos)
+# alunos.pop(3)
+# print(alunos)
+# alunos.pop(2)
+# print(alunos)
+# alunos.pop(1)
+# print(alunos)
+# alunos.pop(0)
+alunos.remove('Tarmiel')
+print(alunos)
+alunos.pop()
+print(alunos)
